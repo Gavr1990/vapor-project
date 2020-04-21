@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/somik/Desktop/HelloAuth/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
